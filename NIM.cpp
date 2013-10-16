@@ -54,7 +54,7 @@ int main( )
 		}
 	}
 	while ( val != 3 );
-
+cout << "Eg heiti Valgerdur" << endl;
 	return 0;
 }
 
