@@ -5,7 +5,7 @@
 #include <time.h>
 
 using namespace std;
-
+//her er breyting lalala
 //Þetta fall á að birta stöðu allra eldspýtnahrúgna (hrúgur í fleirtölu eignarfalli)
 void birta( int* hruga );
 
