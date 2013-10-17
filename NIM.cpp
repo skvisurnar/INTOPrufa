@@ -30,7 +30,9 @@ int hrugufjoldi;
 
 //Hér byrjar aðalforritið:
 int main( )
+
 {
+cout << "Medlimir: Eyglo, Valgerdur, Sonja" << endl;
 	int val;
 	do
 	{
